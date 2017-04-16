@@ -17,7 +17,7 @@
 * Seconds hold A and B, press UP or DOWN
 
 ### PAUSE CLOCK:
-Pause clock hold A and B, Only works with screen ON
+* Pause clock hold A and B, Only works with screen ON
 
 ### NOTES:
 * Feel free to use this code, no need to give me credit.
