@@ -12,9 +12,9 @@
 * Press RIGHT and UP to set clock type to 24h
 
 ### ADJUST TIME:
-* Hours hold A, press UP or DOWN
-* Minutes hold B, press UP or DOWN
-* Seconds hold A and B, press UP or DOWN
+* Hours: hold A, press UP or DOWN
+* Minutes: hold B, press UP or DOWN
+* Seconds: hold A and B, press UP or DOWN
 
 ### PAUSE CLOCK:
 * Pause clock hold A and B, Only works with screen ON
